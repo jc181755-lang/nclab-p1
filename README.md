@@ -106,7 +106,7 @@ Add monthly reports and automatic reset of budgets.
 
 Summary
 
-Your project demonstrates:
+Project demonstrates:
 
 Strong understanding of Python fundamentals (functions, file I/O, conditionals, loops).
 
