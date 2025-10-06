@@ -1,0 +1,13 @@
+Testing ;)
+
+Potential Future Enhancements
+
+Add total income vs. total expenses summary and savings calculation.
+
+Include percentage of budget spent per category.
+
+Implement data export (CSV or Excel).
+
+Create a Tkinter GUI version with charts using Matplotlib.
+
+Add monthly reports and automatic reset of budgets.
