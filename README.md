@@ -149,6 +149,18 @@ Practical application of data handling and user interface design (via CLI).
 
 Good programming habits such as modularization, data validation, and persistence.
 
+🏆 Achievements
+
+✅ Persistent data storage between sessions
+
+✅ Clean, color-coded CLI summary output
+
+✅ Added edit and delete functionality for income and expenses
+
+✅ User-friendly input handling with default date logic
+
+✅ Modular and easily expandable codebase
+
 🧑‍💻 Author
 
 Jonathan Cordova
