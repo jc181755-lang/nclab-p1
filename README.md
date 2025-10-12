@@ -1,6 +1,4 @@
 # nclab-p1
-![Image](https://github.com/user-attachments/assets/7beee3af-c6d8-44bb-88e4-3bc5f509b2bd)
-
 
 Project Description — Personal Budget Tracker
 Overview
