@@ -1,7 +1,5 @@
 # nclab-p1
 
-![jc181755-lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jc181755-lang&show_icons=true&theme=default)
-
 Project Description — Personal Budget Tracker
 Overview
 
