@@ -80,7 +80,7 @@ Show Summary
 
 ones you select 5 it show come up like this exaple.=
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/17a2327b-b44e-4861-877b-6cb18789eee5" 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0c9d24bb-b380-402e-a170-5cb7124f3e25" />
 
 Save & Exit
 
