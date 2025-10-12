@@ -78,7 +78,7 @@ Show Summary
 
 ones you select 5 it show come up like this exaple.=
 
-<img width="1366" height="181" alt="Image" src="https://github.com/user-attachments/assets/8499241b-ca00-4652-94eb-4d8ab532a8e5"/>
+<img width="1366" height="181" alt="Image" src="https://github.com/user-attachments/assets/bd018f40-fc98-479e-b411-76668f4d9e67" />
 
 Save & Exit
 
