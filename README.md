@@ -82,6 +82,8 @@ ones you select 5 it show come up like this exaple.=
 
 Save & Exit
 
+<img width="1366" height="181" alt="Image" src="https://github.com/user-attachments/assets/8499241b-ca00-4652-94eb-4d8ab532a8e5" />
+
 Includes error handling for invalid input choices.
 
 Technical Highlights
