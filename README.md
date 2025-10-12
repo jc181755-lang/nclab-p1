@@ -67,7 +67,7 @@ Main Menu System
 
 Offers an intuitive loop with five options:
 
-Here a short example video onthe 5 sectionan how they show.
+
 
 🎥 Example video:
 Screen Recording Demo
