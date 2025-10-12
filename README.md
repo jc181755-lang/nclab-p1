@@ -131,3 +131,10 @@ Strong understanding of Python fundamentals (functions, file I/O, conditionals, 
 Practical application of data handling and user interface design (via CLI).
 
 Good programming habits such as modularization, data validation, and persistence.
+
+🧑‍💻 Author
+
+Jonathan Cordova
+GitHub: @jc181755-lang
+
+NCLAB Python Developer | Personal Project | 2025
