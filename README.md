@@ -26,6 +26,8 @@ Expenses (amount, category, description, date)
 
 Budgets (monthly limit per category)
 
+Here is an example on how the budget should look.
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f19ce42e-5a64-44d1-a269-0cb88e2293c4" />
 
 Adding Income and Expenses
