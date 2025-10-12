@@ -46,6 +46,7 @@ datetime.today().strftime("%Y-%m-%d")
 This feature ensures usability and consistent record-keeping.
 
 Setting Budgets
+![Image](https://github.com/user-attachments/assets/9ef13e76-4f27-4a9c-9462-74a785bcd645)
 
 Users can define custom monthly budgets per expense category.
 
