@@ -51,7 +51,6 @@ This feature ensures usability and consistent record-keeping.
 
 Setting Budgets
 
-
 Users can define custom monthly budgets per expense category.
 
 Budgets are stored persistently, allowing long-term tracking.
@@ -67,6 +66,10 @@ Helps users quickly identify overspending or savings in specific areas.
 Main Menu System
 
 Offers an intuitive loop with five options:
+
+Here a short example video onthe 5 sectionan how they show.
+
+https://github.com/user-attachments/assets/3a785476-b247-4d0c-860d-1e52048c541b
 
 Add Income
 
