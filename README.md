@@ -76,8 +76,11 @@ Add Expense
 
 Set Budget
 
-Show Summary
+Show Summary 
 
+ones you select 5 it show come up like this exaple.=
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/17a2327b-b44e-4861-877b-6cb18789eee5" 
 Save & Exit
 
 Includes error handling for invalid input choices.
