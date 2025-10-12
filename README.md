@@ -10,8 +10,6 @@ simple, interactive way.
 
 The application stores financial data locally, provides an easy-to-navigate menu system, and generates summaries of spending versus budgeted goals.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 Core Features and Functionality
 
 Data Management
