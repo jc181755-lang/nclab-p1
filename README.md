@@ -69,6 +69,9 @@ Offers an intuitive loop with five options:
 
 Here a short example video onthe 5 sectionan how they show.
 
+🎥 Example video:
+Screen Recording Demo
+
 https://github.com/user-attachments/assets/3a785476-b247-4d0c-860d-1e52048c541b
 
 Add Income
