@@ -132,9 +132,6 @@ Practical application of data handling and user interface design (via CLI).
 
 Good programming habits such as modularization, data validation, and persistence.
 
-
-
-
 🧑‍💻 Author
 
 Jonathan Cordova
