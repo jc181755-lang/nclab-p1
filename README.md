@@ -8,10 +8,15 @@ Overview
 🧩 Example Walkthrough
 
 1️⃣ Start the program
+
 2️⃣ Add income (e.g., $1500 Paycheck)
+
 3️⃣ Add an expense (e.g., $200 Food)
+
 4️⃣ Set a budget for Food ($300)
+
 5️⃣ View summary → shows remaining balance and % used
+
 6️⃣ Save & exit (data persists in JSON file)
 
 Developed a command-line Personal Budget Tracker in Python that allows users to manage and monitor their personal finances in a 
