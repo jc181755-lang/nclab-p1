@@ -5,7 +5,9 @@
 Project Description — Personal Budget Tracker
 Overview
 
-Developed a command-line Personal Budget Tracker in Python that allows users to manage and monitor their personal finances in a simple, interactive way.
+Developed a command-line Personal Budget Tracker in Python that allows users to manage and monitor their personal finances in a 
+simple, interactive way.
+
 The application stores financial data locally, provides an easy-to-navigate menu system, and generates summaries of spending versus budgeted goals.
 
 Core Features and Functionality
@@ -23,6 +25,8 @@ Income (amount, source, date)
 Expenses (amount, category, description, date)
 
 Budgets (monthly limit per category)
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f19ce42e-5a64-44d1-a269-0cb88e2293c4" />
 
 Adding Income and Expenses
 
