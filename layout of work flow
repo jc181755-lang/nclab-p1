@@ -1,0 +1,34 @@
+{
+  "income": [
+    {
+      "amount": 4000.0,
+      "source": "work",
+      "date": "2026-02-09"
+    }
+  ],
+  "expenses": [
+    {
+      "amount": 2100.0,
+      "category": "rent",
+      "desc": "monthly payment ",
+      "date": "2026-02-09"
+    },
+    {
+      "amount": 900.0,
+      "category": "food",
+      "desc": "byweekly",
+      "date": "2026-02-09"
+    },
+    {
+      "amount": 600.0,
+      "category": "bills",
+      "desc": "mounthy payments",
+      "date": "2026-02-09"
+    }
+  ],
+  "budgets": {
+    "bills": 4000.0,
+    "rent ": 2100.0,
+    "food": 900.0
+  }
+}
