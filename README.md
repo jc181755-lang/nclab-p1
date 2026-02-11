@@ -106,7 +106,7 @@ Invalid selections are handled safely with user-friendly prompts.
 3. Run the application:
 
    ```bash
-   aggregate_expenses.py
+   main code
    ```
 
 ---
