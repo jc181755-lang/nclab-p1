@@ -65,10 +65,6 @@ If the file does not exist, it is automatically created on first run.
 3. Set Budget
 4. Show Summary
 5. Save & Exit
-6. Edit Income
-7. Delete Income
-8. Edit Expense
-9. Delete Expense
 
 Invalid selections are handled safely with user-friendly prompts.
 
