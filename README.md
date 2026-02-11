@@ -14,8 +14,8 @@ A **Python 3 command-line application** that helps users track income, expenses,
 ## 🚀 Features
 
 * ✅ Persistent JSON data storage (no data loss between sessions)
-* ➕ Add, edit, and delete income entries
-* ➖ Add, edit, and delete expense entries
+* ➕ Add income entries
+* ➖ Add expense entries
 * 🎯 Set monthly budgets by category
 * 📊 Color-coded summary showing:
 
@@ -111,7 +111,6 @@ Invalid selections are handled safely with user-friendly prompts.
 
 * ✔ Reliable data persistence between sessions
 * ✔ Clean, color-coded CLI summary output
-* ✔ Full edit and delete functionality
 * ✔ User-friendly input handling with defaults
 * ✔ Expandable structure for future features
 
