@@ -1,0 +1,180 @@
+Perfect — here is your corrected, submission-ready README with:
+
+✅ Proper run instructions
+
+✅ Clear .py file references
+
+✅ Clean Markdown formatting
+
+✅ Professional tone
+
+✅ Fixed grammar
+
+✅ Explicit execution command
+
+You can copy and paste this directly into your repository.
+
+💰 Personal Budget & Expense Tracker (CLI)
+
+A Python 3 command-line application that allows users to track income, expenses, and category-based budgets with persistent local storage.
+
+This project demonstrates practical Python fundamentals, structured program flow, input validation, and JSON data persistence.
+
+👋 About the Developer
+
+Hi, I’m Jonathan Cordova — an entry-level Python developer, husband, father, and teacher focused on building clean, functional, and expandable applications.
+
+🚀 Features
+
+✅ Persistent JSON data storage (no data loss between sessions)
+
+➕ Add income entries
+
+➖ Add expense entries
+
+✏️ Edit existing expenses (with proper index validation)
+
+🎯 Set monthly budgets by category
+
+📊 Color-coded summary displaying:
+
+Budget per category
+
+Amount spent
+
+Remaining balance
+
+Percentage of budget used
+
+🧠 Smart defaults (auto-fills today’s date when left blank)
+
+🛡 Defensive input validation and error handling
+
+🧩 Modular, readable code structure
+
+📂 Project Structure
+budget-tracker/
+│
+├── main.py
+├── budget_data.json   (auto-created on first run)
+└── README.md
+
+
+All executable Python files include the .py extension as required.
+
+🛠 Tech Stack
+
+Language: Python 3
+
+Libraries Used:
+
+json
+
+os
+
+datetime
+
+colorama (optional)
+
+▶️ How to Run
+1️⃣ Clone the Repository
+git clone https://github.com/jc181755-lang/budget-tracker.git
+cd budget-tracker
+
+
+⚠️ Make sure the repository name above matches the actual GitHub repository name exactly.
+
+2️⃣ (Optional) Install Color Support
+pip install colorama
+
+3️⃣ Run the Program
+python main.py
+
+
+If your system uses python3, run:
+
+python3 main.py
+
+
+The program will start immediately and display the main menu.
+
+📊 Example Workflow
+
+Add Income (e.g., $1500 – Paycheck)
+
+Add Expense (e.g., $200 – Food)
+
+Edit an expense if needed
+
+Set a Budget for a category (e.g., $300 – Food)
+
+View Summary
+
+Save & Exit
+
+All data is automatically saved to:
+
+budget_data.json
+
+
+If the file does not exist, it is created automatically on first run.
+
+🛡 Input Validation
+
+Prevents invalid numeric entries
+
+Prevents index errors when editing expenses
+
+Handles incorrect menu selections gracefully
+
+Prevents crashes from unexpected input
+
+🏆 Key Improvements
+
+✔ Corrected execution instructions
+
+✔ Proper .py file extensions
+
+✔ Functional expense editing with safe index handling
+
+✔ PEP8-compliant formatting
+
+✔ Clean, modular structure
+
+✔ Clear documentation
+
+🔮 Future Enhancements
+
+Monthly income vs. expense reports
+
+Savings tracking
+
+CSV / Excel export
+
+Automatic monthly budget reset
+
+Tkinter GUI version
+
+Matplotlib data visualizations
+
+🧑‍💻 Author
+
+Jonathan Cordova
+GitHub: https://github.com/jc181755-lang
+
+Project: NCLAB Python Track
+
+📌 Summary
+
+This project demonstrates:
+
+Real-world CLI application design
+
+JSON data persistence
+
+Defensive programming
+
+Clean code practices
+
+User-focused functionality
+
